@@ -9,7 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  equatable: ^2.0.5
+  
   # Firebase
+  firebase_auth: ^4.16.0
   
 
 dev_dependencies:
